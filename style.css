@@ -235,3 +235,7 @@ hr {
   border: #f3f3f3;
   border-radius: 5px;
 }
+
+b {
+  font-weight: 600;
+}
